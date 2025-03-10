@@ -1,0 +1,36 @@
+*
+{
+	background-color: rgb(0,251,219);
+}
+h2{
+	background-color:blue;
+	color:rgb(0,251,219);
+}
+#departments
+{
+	color:rgb(116, 0, 8);
+	font-size:large;
+	font-style:oblique;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#about
+{
+	color:blue;
+	font-size: large;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-style: inherit;
+}
+#courses
+{
+	color: rgb(67, 23, 143);
+	font-size: large;
+	font-style: italic;
+	font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#library
+{
+	color: brown;
+	font-size: large;
+	font-family: 'Times New Roman', Times, serif;
+	font-style: bold;
+}
